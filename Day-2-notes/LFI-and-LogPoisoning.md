@@ -17,7 +17,7 @@ The things we can note about services and users from this are:
 - The Users with **login Permissions** have: `/usr/bin/zsh`
 - The services with **no login Permission** have: `/usr/sbin/nologin`
 - And some are even more restricted and have: `/usr/bin/false`, which literally exit when called.
-![LFI passwd Output](/from-scratch-to-shell/Day-2-notes/Screenshots/passwd-output.webp)
+![LFI passwd Output](/from-scratch-to-shell/Day-2-notes/Screenshots/passwd-output.png)
 
 ## `php://filter` trick (base64 encoding)
 
@@ -43,4 +43,4 @@ sudo chmod o+r /var/log/apache2/access.log
 - after doing this we simply accessed a file on which we want to run the command, to execute, we accessed:
 http://127.0.0.1/DVWA/vulnerabilites/fi/?page=../../../../var/log/apache2/access.log&cmd=ls
 
-![Log inclusion output](/from-scratch-to-shell/Day-2-notes/Screenshots/Log-inclusion-output.webp) 
+![Log inclusion output](/from-scratch-to-shell/Day-2-notes/Screenshots/Log-inclusion-output.png) 
