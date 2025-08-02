@@ -18,8 +18,10 @@ This repo tracks my hands-on, lab-based journey to becoming a cybersecurity prof
 
 | Day | Focus Area | Topics Covered | Link |
 |-----|------------|----------------|------|
-| 1   | Recon      | Nmap, WhatWeb, Nikto | [📄 Day 1 Notes](notes/Day1.md) |
-| 2   | HTTP Req   | Burp Suite, Raw Requests | [📄 Day 2 Notes](notes/Day2.md) |
+| 1   | Recon      | Nmap, WhatWeb, Nikto | [📄 Day 1 Notes](/Day1-notes/) |
+| 2   | HTTP Req   | Burp Suite, Raw Requests | [📄 Day 2 Notes](/Day-2-notes/) |
+| 3   | Dir + File Enum   | curl, HTTP methods, status codes, headers, Burp basics | [📄 Day 3 Notes](/Day-3-notes/) |
+| 4   | Vuln Scanning + Manual Triaging   | Nikto, Nmap NSE, CVEs | [📄 Day 3 Notes](/Day-3-notes/) |
 
 
 ---
