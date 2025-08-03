@@ -54,4 +54,4 @@ GET /DVWA/vulnerabilities/brute/?username=admin'OR'1'='1&password=password&Login
     2. CSRF tokens are not being bypassed properly.
     3. or session/cookie validation is failing.
 
-### 🚧 DVWA’s *Impossible* security mode is clearly working as intended, rejecting even well-known SQLi bypasses.
+###  DVWA’s *Impossible* security mode is clearly working as intended, rejecting even well-known SQLi bypasses.
