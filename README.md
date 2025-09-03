@@ -34,6 +34,7 @@ The goal: sharpen skills for a **remote cybersecurity internship** and build str
 ### 🌐 OSINT & Cloud
 - [OSINT + Service Fingerprinting](./osint-cloud-fingerprinting/)
 - [Cloud (OCI) Troubleshooting + Firewall Persistence](./osint-cloud-fingerprinting/)
+- [API Recon](./api-recon/)
 
 ### 🖥️ Infrastructure Troubleshooting
 - [Disk Allocation Issue](./trouble-shooting/disk-allocation-issue.md)
