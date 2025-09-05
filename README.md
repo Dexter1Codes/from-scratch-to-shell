@@ -24,24 +24,22 @@ The goal: sharpen skills for a **remote cybersecurity internship** and build str
 
 ### ⚔️ Web Vulnerabilities
 - [SQL Injection (DVWA)](./web-vulns-sqli/)
-- [Cross-Site Scripting (XSS)](./web-vulns-xss/)
-- [File Inclusion (LFI + RFI)](./file-inclusion-lfi-rfi/)
+- [Cross-Site Scripting (XSS)](./web-vulns-XSS/)
+- [File Inclusion (LFI + RFI)](./file-inclusion-LFI-RFI/)
 
 ### 🛡️ Exploitation & Privilege Escalation
-- [Privilege Escalation + SUID Enumeration](./priv-esc-reverse-shell/)
-- [Reverse Shell Labs](./priv-esc-reverse-shell/)
+- [Privilege Escalation + SUID Enumeration](./priv-esc-reverse-shell/priv-esc-suid.md)
+- [Reverse Shell Labs](./priv-esc-reverse-shell/reverse-shell-DVWA.md)
 
 ### 🌐 OSINT & Cloud
-- [OSINT + Service Fingerprinting](./osint-cloud-fingerprinting/)
-- [Cloud (OCI) Troubleshooting + Firewall Persistence](./osint-cloud-fingerprinting/)
+- [OSINT + Service Fingerprinting](./OSINT-cloud-fingerprinting/)
+- [Cloud (OCI) Troubleshooting + Firewall Persistence](./OSINT-cloud-fingerprinting/)
 - [API Recon](./api-recon/)
 
 ### 🖥️ Infrastructure Troubleshooting
-- [Disk Allocation Issue](./trouble-shooting/disk-allocation-issue.md)
-- [Apache2 Network/Port Issue](./trouble-shooting/network-access-problem-apache2.md)
+- [Disk Allocation Issue](./Trouble-shooting/Disk-allocation-issue.md)
 
 ### 🧪 Miscellaneous
-- [Random Commands](./random-learning/)
 
 ---
 
