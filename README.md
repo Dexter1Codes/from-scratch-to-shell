@@ -11,7 +11,6 @@ The goal: sharpen skills for a **remote cybersecurity internship** and build str
 - 🛠️ **Tool mastery**: Nmap, Burp Suite, Nikto, Netcat, GoBuster, Nuclei
 - 💡 **Vulnerability deep dives**: LFI, RFI, SQLi, XSS, Privilege Escalation, Reverse Shells
 - 📸 **Screenshots + Notes** for every step
-- ✍️ **Takeaways & Lessons learned**
 
 ---
 
